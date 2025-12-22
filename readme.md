@@ -1,6 +1,6 @@
 ## 한국인의 빨리빨리 정신을 준수 합니다
 
-https://github.com/JSY1728/EDOPRO-Korean-CDB-TEST 포크
+https://github.com/JSY1728/EDOPRO-Korean-CDB-TEST 포크(였던것)
 
 저쪽이랑 싸워서 포크가 바로 안됨
 
